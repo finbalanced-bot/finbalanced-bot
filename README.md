@@ -12,6 +12,8 @@ finbalanced is an online platform that improves the financial well-being of empl
 
 ➡ Contact: info@finbalanced.com
 
+> You probably want to go to the [@finbalanced GitHub organization](https://github.com/finbalanced). This profile here is just used as an internal bot.
+
 Why improving financial well-being is our mission?
 
 Physical, mental and financial well-being are directly and closely related. Money worries are already the number one factor for stress today (ahead of health, career and family). Financial fears and worries can be actively reduced through knowledge building, attitudinal and behavioral changes, despite unchanging conditions.
